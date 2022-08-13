@@ -1,0 +1,20 @@
+{
+  "name": "weather-app1",
+  "version": "1.0.0",
+  "description": "A simple weather app displaying weather forecasts",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lagoshighpriest/Weather-App1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lagoshighpriest/Weather-App1/issues"
+  },
+  "homepage": "https://github.com/Lagoshighpriest/Weather-App1#readme"
+}
